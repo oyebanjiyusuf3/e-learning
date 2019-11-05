@@ -1,0 +1,24 @@
+{
+  "name": "wysihtml",
+  "main": "dist/wysihtml.js",
+  "dependencies": {
+  },
+  "homepage": "https://github.com/Voog/wysihtml",
+  "authors": [
+    "edicy",
+    "xing"
+  ],
+  "description": "wysihtml is an extended and less strict approach on xing/wysihtml5 open source rich text editor based on HTML5 technology.",
+  "keywords": [
+    "wysiwyg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "examples",
+    "test",
+    "Makefile",
+    "src"
+  ]
+}

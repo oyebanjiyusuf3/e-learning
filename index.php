@@ -1,0 +1,269 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>University of Lagos | Home</title>
+    <!-- BOOTSTRAP CORE STYLE CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+     <link rel="shortcut icon" href="student/assets/images/favicon.ico">
+    <!-- FONT AWESOME CSS -->
+<link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+     <!-- FLEXSLIDER CSS -->
+<link href="assets/css/flexslider.css" rel="stylesheet" />
+    <!-- CUSTOM STYLE CSS -->
+    <link href="assets/css/style.css" rel="stylesheet" />
+  <!-- Google	Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css' />
+</head>
+<body >
+
+ <div class="navbar navbar-inverse navbar-fixed-top " id="menu">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.php"><img class="logo-custom" style="border-radius: 50%;" src="assets/img/unilaglogo.jpg" alt=""  /> University of Lagos</a>
+            </div>
+            <div class="navbar-collapse collapse move-me">
+                <ul class="nav navbar-nav navbar-right">
+                    <li ><a href="#home">HOME</a></li>
+                     <li><a href="#features-sec">FEATURES</a></li>
+                     <li><a href="#myModal" data-toggle="modal">CONTACT</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+      <!--NAVBAR SECTION END-->
+       <div class="home-sec" id="home" >
+           <div class="overlay">
+ <div class="container">
+           <div class="row text-center " >
+
+               <div class="col-lg-12  col-md-12 col-sm-12">
+
+                <div class="flexslider set-flexi" id="main-section" >
+                    <ul class="slides move-me">
+                        <!-- Slider 01 -->
+                        <li>
+                              <h3>ELECTRONIC LEARNING SYSTEM</h3>
+                           <h1>THE UNIQUE SYSTEM</h1>
+                            <a  href="index2.php" class="btn btn-info btn-lg" >
+                                ADMIN LOGIN
+                            </a>
+                             <a  href="index2.php" class="btn btn-success btn-lg" >
+                                 STUDENT GET STARTED
+                            </a>
+                        </li>
+                        <!-- End Slider 01 -->
+
+                        <!-- Slider 02 -->
+                        <li>
+                            <h3>ELECTRONIC LEARNING SYSTEM</h3>
+                           <h1>UNMATCHED APPROACH</h1>
+                             <a  href="index2.php" class="btn btn-primary btn-lg" >
+                                ADMIN LOGIN
+                            </a>
+                             <a  href="index2.php" class="btn btn-danger btn-lg" >
+                                STUDENT GET STARTED
+                            </a>
+                        </li>
+                        <!-- End Slider 02 -->
+
+                        <!-- Slider 03 -->
+                        <li>
+                            <h3>ELECTRONIC LEARNING SYSTEM</h3>
+                           <h1>AWESOME ADMIN PANEL</h1>
+                             <a  href="index2.php" class="btn btn-default btn-lg" >
+                                ADMIN LOGIN
+                            </a>
+                             <a  href="index2.php" class="btn btn-info btn-lg" >
+                                STUDENT GET STARTED
+                            </a>
+                        </li>
+                        <!-- End Slider 03 -->
+                    </ul>
+                </div>
+
+
+
+            </div>
+
+               </div>
+                </div>
+           </div>
+
+       </div>
+       <!--HOME SECTION END-->
+    <div  class="tag-line" >
+         <div class="container">
+           <div class="row  text-center" >
+
+               <div class="col-lg-12  col-md-12 col-sm-12">
+
+        <h2 data-scroll-reveal="enter from the bottom after 0.1s" ><i class="fa fa-circle-o-notch"></i> WELCOME TO ELECTRONIC LEARNING SYSTEM<i class="fa fa-circle-o-notch"></i> </h2>
+                   </div>
+               </div>
+             </div>
+
+    </div>
+    <!--HOME SECTION TAG LINE END-->
+         <div id="features-sec" class="container set-pad" >
+             <div class="row text-center">
+                 <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
+                     <h1 data-scroll-reveal="enter from the bottom after 0.2s"  class="header-line">FEATURE LIST </h1>
+                     <p data-scroll-reveal="enter from the bottom after 0.3s" >
+                    This Platform would allow students to log in to the system, collect their
+                    <strong>LEARNING MATERIALS</strong> from <strong>LECTURERS</strong>, and discuss with their <strong>CLASSMATES</strong>.
+                    The major advantage is that, the entire process is <strong>REAL-TIME</strong> and <strong>ONLINE</strong>,
+                    which means <strong>STUDENTS</strong> can study everywhere (e.g. at home, hostel etc).
+                    Thought the use of advanced web technology, the <strong>ADMINISTRATOR</strong> can add a
+                    new module to the system to provide an extra function by uploading materials (videos, PDF etc) for their students.</p>
+                 </div>
+
+             </div>
+             <!--/.HEADER LINE END-->
+
+
+           <div class="row" >
+
+
+                 <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.4s">
+                     <div class="about-div">
+                     <i class="fa fa-paper-plane-o fa-4x icon-round-border" ></i>
+                   <h3 >UPLOADING MATERIALS</h3>
+                 <hr />
+                       <hr />
+                   <p >
+                       Lecturers would be able to upload materials for students
+                   </p>
+               <a href="#" class="btn btn-info btn-set"  >GET STARTED</a>
+                </div>
+                   </div>
+                   <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.5s">
+                     <div class="about-div">
+                     <i class="fa fa-bolt fa-4x icon-round-border" ></i>
+                   <h3 >ACCESS MATERIALS</h3>
+                 <hr />
+                       <hr />
+                   <p >
+                     Students would be able to access materials on this Platform and he or she would be able to leave feedback
+
+                   </p>
+               <a href="#" class="btn btn-info btn-set">GET STARTED</a>
+                </div>
+                   </div>
+                 <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.6s">
+                     <div class="about-div">
+                     <i class="fa fa-magic fa-4x icon-round-border" ></i>
+                   <h3 >FAQ</h3>
+                 <hr />
+                       <hr />
+                   <p >
+                       Get to know all the complaint that have been made by your colleagues and the response given
+
+                   </p>
+               <a href="#" class="btn btn-info btn-set"  >GET STARTED</a>
+                </div>
+                   </div>
+
+
+               </div>
+             </div>
+   <!-- FEATURES SECTION END-->
+
+
+    <!-- FACULTY SECTION END-->
+
+    <div class="container">
+  <!-- <div class="row">
+
+    <h1 class="text-center"><a href="#myModal" role="button" class="btn btn-primary btn-lg" data-toggle="modal">Contact Us</a></h1>
+
+  </div>
+-->
+
+</div>
+
+<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header" style="background: #1C2B4B;">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel" style="color:white">We'd Love to Hear From You</h3>
+      </div>
+      <div class="modal-body">
+        <form class="form-horizontal col-sm-12">
+          <div class="form-group"><label>Name</label><input class="form-control required" placeholder="Your name" data-placement="top" data-trigger="manual" data-content="Must be at least 3 characters long, and must only contain letters." type="text"></div>
+            <div class="form-group"><label>Matric Number</label><input class="form-control required" placeholder="Matric Number" data-placement="top" data-trigger="manual" data-content="Must be at least 3 characters long, and must only contain letters." type="text"></div>
+          <div class="form-group"><label>E-Mail</label><input class="form-control email" placeholder="email@you.com (so that we can contact you)" data-placement="top" data-trigger="manual" data-content="Must be a valid e-mail address (user@gmail.com)" type="text"></div>
+          <div class="form-group"><label>Phone</label><input class="form-control phone" placeholder="999-999-9999" data-placement="top" data-trigger="manual" data-content="Must be a valid phone number (999-999-9999)" type="text"></div>
+            <div class="form-group"><label>Message</label><textarea class="form-control" placeholder="Your message here.." data-placement="top" data-trigger="manual"></textarea></div>
+          <div class="form-group"><button type="submit" class="btn btn-success pull-right" onclick="goValidate()">Send It!</button> <p class="help-block pull-left text-danger hide" id="form-error">&nbsp; The form is not valid. </p></div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <!-- COURSES SECTION END-->
+
+    <div class="container">
+             <div class="row set-row-pad"  >
+    <div class="col-lg-4 col-md-4 col-sm-4   col-lg-offset-1 col-md-offset-1 col-sm-offset-1 " data-scroll-reveal="enter from the bottom after 0.4s">
+
+                    <h2 ><strong>Our Location </strong></h2>
+        <hr />
+                    <div>
+                        <h4> University Road, Akoka,</h4>
+                        <h4>Yaba, Lagos State., Nigeria.</h4>
+                        <h4><strong>Call:</strong> 08167033650 </h4>
+                        <h4><strong>Email: </strong>info@unilag.edu.ng</h4>
+                    </div>
+
+
+                </div>
+                 <div class="col-lg-4 col-md-4 col-sm-4   col-lg-offset-1 col-md-offset-1 col-sm-offset-1" data-scroll-reveal="enter from the bottom after 0.4s">
+
+                    <h2 ><strong>Social Conectivity </strong></h2>
+        <hr />
+                    <div >
+                        <a href="#">  <img src="assets/img/Social/facebook.png" alt="" /> </a>
+                     <a href="#"> <img src="assets/img/Social/google-plus.png" alt="" /></a>
+                     <a href="#"> <img src="assets/img/Social/twitter.png" alt="" /></a>
+                    </div>
+                    </div>
+
+
+                </div>
+                 </div>
+     <!-- CONTACT SECTION END-->
+    <div id="footer">
+          &copy 2018| All Rights Reserved |  <a href="#" style="color: #fff" target="_blank">Designed by : Oyebanji Yusuf</a>
+    </div>
+     <!-- FOOTER SECTION END-->
+
+    <!--  Jquery Core Script -->
+    <script src="assets/js/modalValidate.js"></script>
+    <script src="assets/js/jquery-1.10.2.js"></script>
+    <!--  Core Bootstrap Script -->
+    <script src="assets/js/bootstrap.js"></script>
+    <!--  Flexslider Scripts -->
+         <script src="assets/js/jquery.flexslider.js"></script>
+     <!--  Scrolling Reveal Script -->
+    <script src="assets/js/scrollReveal.js"></script>
+    <!--  Scroll Scripts -->
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <!--  Custom Scripts -->
+         <script src="assets/js/custom.js"></script>
+</body>
+</html>
