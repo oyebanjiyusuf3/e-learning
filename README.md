@@ -1,7 +1,7 @@
 # e-learning
  The folder named "FINAL YEAR PROJECT WRITE UP" contains my project write up and maybe viewed there.
 
- #MYSQL FOLDER
+ # MYSQL FOLDER
 
  it contains the database of the project
 
