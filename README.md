@@ -7,4 +7,4 @@
 
 
  # How to run the project
- install xampp or wamp if you are using Windows or Linux system. If you are using Mac OS system, just install MAMP
+ install xampp (https://www.apachefriends.org/) or wamp if you are using Windows or Linux system. If you are using Mac OS system, just install MAMP
