@@ -1,5 +1,5 @@
 # e-learning
- The folder named "FINAL YEAR PROJECT WRITE UP" contains my project write up and maybe viewed there.
+ Electronic Learning System is an open source project that supports multiple languages for their users, becoming highly engaging as they help optimize user experience by localizing the process and putting an end to geographical boundaries.
 
  # MYSQL FOLDER
 
