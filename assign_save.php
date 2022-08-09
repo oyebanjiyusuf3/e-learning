@@ -22,7 +22,7 @@ echo $input_name ;
     }
     return mysql_real_escape_string($str);
 }
-
+//forloop
  */
 
 if ($input_name == ""){
