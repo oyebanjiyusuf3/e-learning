@@ -50,7 +50,10 @@ for($i=0; $i < $N; $i++)
 
 	}
 }
+	
+	//end of script
 ?>
+
 <script>
 window.location = 'teacher_backack.php';
 </script>
