@@ -24,6 +24,7 @@ echo $input_name ;
 }
 //forloop
  */
+//assign
 
 if ($input_name == ""){
 
