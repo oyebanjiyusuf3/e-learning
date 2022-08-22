@@ -16,7 +16,7 @@ for($i=0; $i < $N; $i++)
 	$fdesc = $row['fdesc'];
 	$uploaded_by = $row['uploaded_by'];
 
-
+//query
 
 	mysqli_query($conn,"insert into files (floc,fdatein,fdesc,class_id,fname,uploaded_by) value('$floc',NOW(),'$fdesc','$class_id','$fname','$uploaded_by')")or die(mysqli_error());
 
