@@ -19,14 +19,14 @@
 
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://images.pexels.com/photos/4144101/pexels-photo-4144101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">Learning Management System</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Sleek, intuitive, and powerful customizable LMS dashboard for faster and easier web development.
   <br>
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
@@ -41,7 +41,7 @@
 </p>
 
 
-## Bootstrap 5
+## Learning Management System
 
 Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
 
