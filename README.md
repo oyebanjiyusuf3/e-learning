@@ -1,18 +1,8 @@
-# Electronic Learning System
- Electronic Learning System is an open source project that supports multiple languages for their users, becoming highly engaging as they help optimize user experience by localizing the process and putting an end to geographical boundaries.
 
  # MYSQL FOLDER
 
  it contains the database of the project
 
-
- # How to run the project
- install xampp (https://www.apachefriends.org/) or wamp (http://www.wampserver.com/en/) if you are using Windows or Linux system. If you are using Mac OS system, just install MAMP(https://www.mamp.info/en/).
-
- open any Integrated Development Environment (IDE) that you have, eg (https://code.visualstudio.com/) and open your terminal.
- 
- run `git clone https://github.com/oyebanjiyusuf3/e-learning.git` to clone the project from repository.
- open your browser ef chrome or firefox and type `localhost/e-learning` after you have moved the project to htdocs or www folder.
 
  if you have any other question or help to configure it, kindly email me oyebanjiyusuf3@gmail.com
 
@@ -50,14 +40,10 @@ Electronic Learning System is an open source project that supports multiple lang
 
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.3.0-alpha1.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap@v5.3.0-alpha1`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@v5.3.0-alpha1`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.3.0-alpha1`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
-
-Read the [Getting started pages](https://getbootstrap.com/docs/5.3/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
+- Clone the repo: `git clone https://github.com/oyebanjiyusuf3/e-learning.git`
+- Install with [xampp](https://www.apachefriends.org/)
+- Install with [wamp](http://www.wampserver.com/en/)
+- Install with [MAMP](https://www.mamp.info/en/)
 
 
 ## Status
