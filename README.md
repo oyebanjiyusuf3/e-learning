@@ -94,26 +94,11 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 
 **Yusuf Oyebanji**
 
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
-
-**Jacob Thornton**
-
-- <https://twitter.com/fat>
-- <https://github.com/fat>
+- <https://www.yusufoyebanji.com>
+- <https://https://stackoverflow.com/users/19429308/yusuf-oyebanji>
 
 
-## Thanks
 
-<a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack" width="192" height="42">
-</a>
-
-Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
-
-<a href="https://www.netlify.com/">
-  <img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Netlify" width="147" height="40">
-</a>
 
 Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previews!
 
