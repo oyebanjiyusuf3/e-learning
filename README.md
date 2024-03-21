@@ -91,8 +91,7 @@ Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previ
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
 
-[![OC sponsor 0](https://qefas.com/wp-content/uploads/2022/06/Black-And-White-Rakia-Design-Studio-Logo-e1656495066617.png)](https://qefas.com/)
-[![OC sponsor 1](https://simbibot.com/assets/simbibot-logo-white.svg)](https://simbibot.com/)
+
 
 
 ## Copyright and license
